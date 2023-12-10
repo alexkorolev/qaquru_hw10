@@ -29,4 +29,3 @@ replay_pid*
 gradlew
 gradlew.bat
 qaguru_hw4p1/settings.gradle
-*.log
